@@ -1,0 +1,6 @@
+github "linkedin/LayoutKit"
+github "KevinVitale/ReactiveJSON" == 0.0.1
+github "Thoughtbot/Argo"
+github "Thoughtbot/Runes"
+github "Thoughtbot/Curry"
+github "ReactiveCocoa/ReactiveCocoa"
